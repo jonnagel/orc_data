@@ -1,3 +1,3 @@
-### data extraction from Office of Civil Rights
+## data extraction from Office of Civil Rights
 
-https://ocrdata.ed.gov/resources/downloaddatafile
+## Collect data: see data/README.md
